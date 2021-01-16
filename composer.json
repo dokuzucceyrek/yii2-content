@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "uguryildiz\\content\\": "src"
+            "dokuzucceyrek\\content\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "uguryildiz\\content\\tests\\": "tests"
+            "dokuzucceyrek\\content\\tests\\": "tests"
         }
     },
     "repositories": [
